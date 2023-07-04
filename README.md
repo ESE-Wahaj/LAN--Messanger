@@ -1,11 +1,10 @@
 # LAN--Messanger
-It is a local LAN chatting and file sharing ability over LAN. This is helpful when there is no internet access in our connection, but we can still communicate over the network.
 
-Local LAN Messaging System (Server)
+Local LAN Messaging System
 
 Introduction:
 -----------------
-This is a simple local LAN messaging system server built for the Windows operating system using C++ and Winsock. The server allows clients to connect over the network and exchange messages.
+LANChat is designed for Windows using C++ and Winsock. It enables seamless communication and file sharing within your local network. With LANChat, you can stay connected and exchange messages, even when internet access is unavailable. Experience uninterrupted connectivity and efficient collaboration with LANChat. Connect, chat, and share files effortlessly within your LAN network.
 
 Features:
 -----------------
